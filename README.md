@@ -13,7 +13,7 @@ I'm a **Computer Science and Engineering** student at **Model Engineering Colleg
 - 🎓 **Education**: B.Tech CSE @ Model Engineering College, Kochi  
 - 🌍 **Location**: Kochi, Kerala, India  
 - 🧠 **Interests**: Software Engineering, AI Development, Game Development  
-- 🔗 **Connect With Me**: [LinkedIn](https://www.linkedin.com/in/nikhil-m-110953251/) • [Gmail](mailto:nikhilmurali123@gmail.com)
+- 🔗 **Connect With Me**: [LinkedIn](https://www.linkedin.com/in/nikhil-m-110953251/) • [Gmail](mailto:nikhilmurali.mec@gmail.com)
 
 ---
 
